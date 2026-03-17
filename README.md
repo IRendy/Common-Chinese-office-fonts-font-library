@@ -58,7 +58,7 @@
 
 Linux 用户可以参考这篇《[在 Linux 中管理与安装字体（详细教程）](https://blog.csdn.net/qq_44275213/article/details/154613051)》，相关步骤和说明比较详细
 
-### Linux (Ubuntu/Debian)
+#### Linux (Ubuntu/Debian)
 
 1. **下载**所需的 TTF 字体文件。
 2. 打开终端并创建本地字体目录（如果没有的话）：
@@ -79,7 +79,7 @@ Linux 用户可以参考这篇《[在 Linux 中管理与安装字体（详细教
 
 字体安装完成后，可以在应用程序中使用。
 
-### Linux (Fedora/RHEL/CentOS)
+#### Linux (Fedora/RHEL/CentOS)
 
 1. **下载**所需的 TTF 字体文件。
 2. 将字体文件复制到系统字体目录：
